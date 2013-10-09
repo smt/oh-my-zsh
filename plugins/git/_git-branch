@@ -80,3 +80,4 @@ __git_ignore_line_inside_arguments () {
 
   __git_ignore_line $* $compadd_opts
 }
+
