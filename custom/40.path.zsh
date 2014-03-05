@@ -9,3 +9,6 @@ export PATH=~/bin:$PATH
 
 # Add node binaries to path
 export PATH=/usr/local/share/npm/bin:$PATH
+
+# Add rvm to path
+export PATH=$PATH:$HOME/.rvm/bin
