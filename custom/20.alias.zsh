@@ -38,11 +38,13 @@ alias pubkey="cat ~/.ssh/id_rsa.pub | cb" # copy public key to clipboard
 alias cpwd='pwd | cb' # copy working directory path to clipboard
 alias cl="fc -e - | pbcopy" # copy output of last command to clipboard
 
+# todo.sh
+alias t="todo.sh"
+
 # vim
 alias v="vim"
 
 # tmux
-alias t="tmux"
 alias resume="tmux a"
 
 # git
