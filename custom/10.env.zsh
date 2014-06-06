@@ -7,7 +7,8 @@ export SRC=$HOME/src
 # Dropbox folder
 export DROPBOX=$HOME/Dropbox
 
-# GOPATH
+# GO
+export GOROOT=$HOME/.go
 export GOPATH=$SRC/go
 
 # Load php-version
